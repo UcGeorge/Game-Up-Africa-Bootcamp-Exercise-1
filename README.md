@@ -6,4 +6,4 @@ Plane Programming - Use the skills you learned in the driving simulation to fly 
 
 ---
 
-[![Video Thumbnail](readme/thumbnail.png)]({https://drive.google.com/file/d/1U61I2UE6zyIqfIn-5ItDr8setX3oC1vA/view?usp=sharing} "Demo Video")
+[![Video Thumbnail](readme/thumbnail.png)]([{}](https://drive.google.com/file/d/1U61I2UE6zyIqfIn-5ItDr8setX3oC1vA/view?usp=sharing) "Demo Video")
